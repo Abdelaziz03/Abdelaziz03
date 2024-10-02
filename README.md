@@ -1,13 +1,20 @@
 ## Hi there 👋
 
 
-- :telescope: 👋 Hi, I’m Abdelaziz, an engineering student at CentraleSupélec and a Data Science master's candidate at Ecole Polytechnique. I’m passionate about applying AI, machine learning, and advanced quantitative techniques to solve real-world challenges. My projects span data analysis, predictive modeling, and signal processing. Currently exploring the intersection of finance and AI. Let’s innovate together!
+
+
+
+- :telescope: I’m Abdelaziz, an engineering student at CentraleSupélec and a Data Science master's candidate at Ecole Polytechnique. I’m passionate about applying AI, machine learning, and advanced quantitative techniques to solve real-world challenges. My projects span data analysis, predictive modeling, and signal processing. Currently exploring the intersection of finance and AI. Let’s innovate together!
   
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Litecode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/abdelaziz-guelfane-4b4489207/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/abdelaziz-guelfane-4b4489207/])
+
+
+
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
