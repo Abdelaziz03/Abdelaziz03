@@ -6,10 +6,10 @@
 
 
 
+<h1 align="left">Quick summary</h1>
 
 
-
-- :telescope: I’m Abdelaziz, an engineering student at CentraleSupélec and a Data Science master's candidate at Ecole Polytechnique. I’m passionate about applying AI, machine learning, and advanced quantitative techniques to solve real-world challenges. My projects span data analysis, predictive modeling, and signal processing. Currently exploring the intersection of finance and AI. Let’s innovate together!
+- :telescope: I’m Abdelaziz, a researcher-track student specializing in AI engineering and computer science. Pursuing a Master's at Ecole Polytechnique alongside his 3A specialization at CentraleSupélec. I’m passionate about applying AI, machine learning, and advanced quantitative techniques to solve real-world challenges. My projects span data analysis, predictive modeling, and signal processing. Currently exploring the intersection of finance and AI. Let’s innovate together!
   
 - :seedling: Exploring Technical Content Writing.
 
@@ -17,7 +17,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-In-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaziz-guelfane-4b4489207/)
 
-
+</h1>
 
 
 <h1 align="left">Languages and Tools</h1>
