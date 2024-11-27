@@ -13,7 +13,7 @@
   
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Litecode and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and read tech articles. Most of my contributions are on my institution's GitLab and shared community interfaces.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelaziz-guelfane-4b4489207/)
 
